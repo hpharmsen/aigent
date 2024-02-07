@@ -9,5 +9,4 @@ venv/
 aigent.egg-info
 aigent.egg-info/
 aigent/saves
-
 /examples/translation_target.xlf
